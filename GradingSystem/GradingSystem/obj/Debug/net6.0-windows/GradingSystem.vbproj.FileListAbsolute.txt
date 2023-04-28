@@ -1,0 +1,17 @@
+D:\Activities and Discussion 2nd Sem\OOP\GradingSystem\GradingSystem\obj\Debug\net6.0-windows\GradingSystem.vbproj.AssemblyReference.cache
+D:\Activities and Discussion 2nd Sem\OOP\GradingSystem\GradingSystem\obj\Debug\net6.0-windows\GradingSystem.Form1.resources
+D:\Activities and Discussion 2nd Sem\OOP\GradingSystem\GradingSystem\obj\Debug\net6.0-windows\GradingSystem.vbproj.GenerateResource.cache
+D:\Activities and Discussion 2nd Sem\OOP\GradingSystem\GradingSystem\obj\Debug\net6.0-windows\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Activities and Discussion 2nd Sem\OOP\GradingSystem\GradingSystem\obj\Debug\net6.0-windows\GradingSystem.AssemblyInfoInputs.cache
+D:\Activities and Discussion 2nd Sem\OOP\GradingSystem\GradingSystem\obj\Debug\net6.0-windows\GradingSystem.AssemblyInfo.vb
+D:\Activities and Discussion 2nd Sem\OOP\GradingSystem\GradingSystem\obj\Debug\net6.0-windows\GradingSystem.vbproj.CoreCompileInputs.cache
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\bin\Debug\net6.0-windows\gradingSystem.exe
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\bin\Debug\net6.0-windows\gradingSystem.deps.json
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\bin\Debug\net6.0-windows\gradingSystem.runtimeconfig.json
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\bin\Debug\net6.0-windows\gradingSystem.dll
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\bin\Debug\net6.0-windows\gradingSystem.pdb
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\obj\Debug\net6.0-windows\gradingSystem.dll
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\obj\Debug\net6.0-windows\refint\gradingSystem.dll
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\obj\Debug\net6.0-windows\gradingSystem.pdb
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\obj\Debug\net6.0-windows\gradingSystem.genruntimeconfig.cache
+D:\Activities and Discussion 2nd Sem\OOP\gradingSystem\gradingSystem\obj\Debug\net6.0-windows\ref\gradingSystem.dll
